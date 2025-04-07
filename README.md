@@ -44,6 +44,7 @@ Link: [DBpedia on Kaggle](https://www.kaggle.com/datasets/danofer/dbpedia-classe
 ---
 
 ## Estrutura do Repositório
+```
 📁 SBC-Final-Project
 ├── L1/ 
 │ ├── BERT_Classificação_DBPedia_L1.ipynb 
@@ -62,4 +63,5 @@ Link: [DBpedia on Kaggle](https://www.kaggle.com/datasets/danofer/dbpedia-classe
 ├── .gitignore 
 ├── .python-version 
 └── README.md
+```
 
