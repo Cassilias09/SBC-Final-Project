@@ -44,8 +44,14 @@ Link: [DBpedia on Kaggle](https://www.kaggle.com/datasets/danofer/dbpedia-classe
 ---
 
 ## Estrutura do Repositório
+
+- L1: Diretório com o problema de 9 Classes
+- L2: Diretório com o problema de 70 Classes
+- L3: Diretório com o problema de 219 Classes
+
+```
 📁 SBC-Final-Project
-├── L1/ 
+├── L1/
 │ ├── BERT_Classificação_DBPedia_L1.ipynb 
 │ ├── bert_mlm_dbpedia.keras 
 │ └── Markov_Classificação_DBPedia_L1.ipynb 
@@ -57,9 +63,9 @@ Link: [DBpedia on Kaggle](https://www.kaggle.com/datasets/danofer/dbpedia-classe
 │ ├── BERT_Classificação_DBPedia_L3.ipynb 
 │ ├── bert_mlm_dbpedia-l3.keras 
 │ └── Markov_Classificação_DBPedia_L3.ipynb 
-├── original_notebook/ 
+├── original_notebook/
 │ └── masked_language_modeling.ipynb 
 ├── .gitignore 
-├── .python-version 
 └── README.md
+```
 
