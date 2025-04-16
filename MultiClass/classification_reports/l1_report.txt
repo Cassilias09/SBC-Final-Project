@@ -1,0 +1,15 @@
+                precision    recall  f1-score   support
+
+         Agent     0.9908    0.9910    0.9909     31495
+        Device     0.9836    0.9677    0.9756        62
+         Event     0.9912    0.9778    0.9844      4820
+         Place     0.9904    0.9852    0.9878     11574
+       Species     0.9907    0.9983    0.9945      5418
+  SportsSeason     0.9565    0.9939    0.9749      1483
+TopicalConcept     0.9545    0.8485    0.8984       198
+    UnitOfWork     0.9977    0.9932    0.9955       444
+          Work     0.9768    0.9847    0.9807      5300
+
+      accuracy                         0.9886     60794
+     macro avg     0.9814    0.9712    0.9759     60794
+  weighted avg     0.9886    0.9886    0.9886     60794

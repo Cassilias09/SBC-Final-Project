@@ -1,0 +1,76 @@
+                              precision    recall  f1-score   support
+
+                       Actor     0.8651    0.8826    0.8738       298
+     AmusementParkAttraction     1.0000    0.9835    0.9917       121
+                      Animal     0.9903    0.9962    0.9933      3705
+                      Artist     0.9719    0.9143    0.9422      1248
+                     Athlete     0.9684    0.9863    0.9772      7855
+                 BodyOfWater     0.9495    0.9455    0.9475       477
+                       Boxer     0.9710    0.9306    0.9504        72
+              BritishRoyalty     0.9365    0.9593    0.9478       123
+                 Broadcaster     0.9771    0.9880    0.9825      1165
+                    Building     0.9712    0.9756    0.9734      2700
+                     Cartoon     0.9691    0.9014    0.9340       487
+               CelestialBody     0.9968    0.9951    0.9959       617
+                      Cleric     0.9454    0.9256    0.9354      1142
+ClericalAdministrativeRegion     0.9938    0.9876    0.9907       484
+                       Coach     0.9391    0.9019    0.9201       479
+                       Comic     0.9180    0.9651    0.9410       545
+             ComicsCharacter     0.9143    0.8649    0.8889        37
+                     Company     0.9663    0.9447    0.9554      2097
+                    Database     0.9259    0.7576    0.8333        33
+      EducationalInstitution     0.9907    0.9544    0.9722      1119
+                      Engine     0.9836    0.9677    0.9756        62
+                   Eukaryote     0.9935    0.9870    0.9902       462
+          FictionalCharacter     0.9851    0.9672    0.9761       548
+              FloweringPlant     0.9839    1.0000    0.9919        61
+        FootballLeagueSeason     0.9894    0.9647    0.9769       482
+                       Genre     0.9609    0.8687    0.9125       198
+      GridironFootballPlayer     0.9464    0.9503    0.9483       483
+                       Group     0.9322    0.9181    0.9251       464
+                       Horse     1.0000    0.9958    0.9979       480
+              Infrastructure     0.9701    0.9721    0.9711       967
+                   LegalCase     0.9978    1.0000    0.9989       444
+             MotorcycleRider     0.9912    0.9825    0.9868       114
+               MusicalArtist     0.9787    0.9200    0.9485        50
+                 MusicalWork     0.9620    0.9747    0.9683      1742
+                NaturalEvent     0.9949    1.0000    0.9974       194
+                NaturalPlace     0.9723    0.9870    0.9796      1385
+                    Olympics     0.9857    0.9918    0.9887       485
+                Organisation     0.8805    0.9528    0.9152      1801
+          OrganisationMember     0.9231    0.7423    0.8229        97
+        PeriodicalLiterature     0.9832    0.9730    0.9781      1443
+                      Person     0.9245    0.8606    0.8914      4922
+                       Plant     0.9735    0.9845    0.9790       710
+                  Politician     0.8231    0.9341    0.8751      2396
+                   Presenter     0.8049    0.5789    0.6735        57
+                        Race     0.9782    0.9926    0.9853       542
+                   RaceTrack     0.9286    0.9070    0.9176        43
+                RacingDriver     0.9755    0.9789    0.9772       285
+       RouteOfTransportation     0.9762    0.9319    0.9535      1497
+                   Satellite     0.9899    0.9899    0.9899       398
+                   Scientist     0.8098    0.8919    0.8489       148
+                  Settlement     0.9884    0.9750    0.9816       960
+               SocietalEvent     0.9894    0.9304    0.9590      1509
+                    Software     0.9484    0.9876    0.9676       484
+                        Song     0.9568    0.9944    0.9752       178
+               SportFacility     0.9625    0.9724    0.9674       580
+                 SportsEvent     0.9969    0.9439    0.9697      1034
+                SportsLeague     0.9236    0.9673    0.9449       612
+               SportsManager     0.8531    0.7531    0.8000       478
+                  SportsTeam     0.9688    0.9852    0.9769      1417
+            SportsTeamSeason     0.9412    0.9920    0.9660      1001
+                     Station     0.9888    0.9888    0.9888       356
+                      Stream     0.9832    0.9778    0.9805       540
+                  Tournament     0.9344    0.9839    0.9585      1056
+                       Tower     0.9600    0.9750    0.9674       320
+                       Venue     0.9735    0.8527    0.9091       129
+            VolleyballPlayer     0.9714    0.9714    0.9714        35
+           WinterSportPlayer     0.9852    0.9931    0.9891      1605
+                    Wrestler     0.9872    1.0000    0.9935        77
+                      Writer     0.8390    0.8266    0.8327       271
+                 WrittenWork     0.9273    0.9536    0.9403       388
+
+                    accuracy                         0.9559     60794
+                   macro avg     0.9548    0.9421    0.9475     60794
+                weighted avg     0.9567    0.9559    0.9558     60794
